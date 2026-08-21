@@ -1,0 +1,10 @@
+Account Number : 3700 
+Before Deposite Balance: 500.0
+Deposit Balance : 700.0 
+Total Balance: 1200.0
+______________________________
+Account Number: 3700
+Before Withdraw: 1000.0
+Withdrawal Amount: 200
+Current Balance: 800.0
+______________________________

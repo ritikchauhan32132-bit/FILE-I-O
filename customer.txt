@@ -1,0 +1,6 @@
+Name: Ritik Kumar
+Age: 12
+Mobile: 1
+Account: 3700
+Balance: 500
+------------------------------
